@@ -1,2 +1,3 @@
 # MR-VPC
-Towards Multimodal Video Paragraph Captioning Models Robust to Missing Modality
+
+This the repo for the paper "Towards Multimodal Video Paragraph Captioning Models Robust to Missing Modality" (coming soon).
